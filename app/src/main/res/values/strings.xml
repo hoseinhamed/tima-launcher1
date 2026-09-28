@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TiMa</string>
+    <string name="tile_game">بازی</string>
+    <string name="tile_software">نرم‌افزار</string>
+    <string name="tile_ai">هوش</string>
+    <string name="connecting">در حال اتصال به سرور...</string>
+    <string name="ai_hint">پیام خود را بنویسید...</string>
+    <string name="ai_send">ارسال</string>
+</resources>

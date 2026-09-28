@@ -1,0 +1,7 @@
+<resources>
+    <style name="Theme.TimaLauncher" parent="Theme.AppCompat.NoActionBar">
+        <item name="android:windowBackground">@color/tima_bg</item>
+        <item name="colorPrimary">@color/tima_accent</item>
+        <item name="android:textColor">@color/tima_text</item>
+    </style>
+</resources>

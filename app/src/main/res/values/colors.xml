@@ -1,0 +1,8 @@
+<resources>
+    <color name="tima_bg">#0F1115</color>
+    <color name="tima_tile">#1B1E24</color>
+    <color name="tima_tile_border">#333333</color>
+    <color name="tima_accent">#3861FB</color>
+    <color name="tima_text">#EEEEEE</color>
+    <color name="tima_text_dim">#9AA0A6</color>
+</resources>
